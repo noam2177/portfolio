@@ -8,7 +8,7 @@ Noam Meroz. הדברים כאן רצים, ויש להם בדיקה או אתר.
 
 פאזל בלוקים ב-Godot. לוח 8×8, שלושה חלקים, שורה או עמודה מלאה מתנקה. שורה ועמודה באותו מהלך הן סופרנובה.
 
-החוקים יושבים ב-`core/`, בלי ציור ובלי קלט, כדי שאפשר לבדוק הנחה וניקוי בלי לפתוח חלון. `game/` מצייר וגורר. עדיין לא בחנות. יש גם מצב Race עם שעון.
+החוקים יושבים ב-`core/`, בלי ציור ובלי קלט, כדי שאפשר לבדוק הנחה וניקוי בלי לפתוח חלון. `game/` מצייר וגורר. האבנים הן גבישים מצוירים: פאות, ברק, ובאר שקועה, על רקע ערפילית. עדיין לא בחנות. יש גם מצב Race עם שעון.
 
 ### [טורניר Clash](https://github.com/noam2177/coc-tournament)
 
@@ -42,9 +42,9 @@ python board.py
 
 | ריפו | מה בודקים |
 | --- | --- |
-| [tfidf-rank](https://github.com/noam2177/tfidf-rank) | קוסינוס TF-IDF מול Jaccard |
-| [he-segment](https://github.com/noam2177/he-segment) | שלוש מערכות על מבחן קפוא: בייסליין, לקסיקון, מודל תווים |
-| [he-nlp](https://github.com/noam2177/he-nlp) | תחילית עברית, ואם אחריה באה ה׳ הידיעה גם אותה |
-| [anscombe-check](https://github.com/noam2177/anscombe-check) | אותו סיכום לארבע צורות, והשארית הגדולה מהקו |
-| [csv-sum](https://github.com/noam2177/csv-sum) | ספירת שורות, סכום, וממוצע |
-| [bracket-check](https://github.com/noam2177/bracket-check) | סוגריים עגולים ומרובעים בזוג |
+| [tfidf-rank](https://github.com/noam2177/tfidf-rank) | קוסינוס TF-IDF, Jaccard, Dice, ו-Overlap על טריגרמים |
+| [he-segment](https://github.com/noam2177/he-segment) | שלוש מערכות על מבחן קפוא, ותמהיל תגי השגיאה |
+| [he-nlp](https://github.com/noam2177/he-nlp) | תחילית, ה׳ הידיעה, ו׳ ועוד אות, ש׳ ועוד אות |
+| [anscombe-check](https://github.com/noam2177/anscombe-check) | אותו סיכום, הנקודה הרחוקה, ו-R² |
+| [csv-sum](https://github.com/noam2177/csv-sum) | ספירה, סכום, ממוצע, חציון, סטיית תקן |
+| [bracket-check](https://github.com/noam2177/bracket-check) | סוגריים בזוג, ומקום השבירה: סוגר או פותח |
