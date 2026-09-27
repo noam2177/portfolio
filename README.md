@@ -42,9 +42,9 @@ python board.py
 
 | ריפו | מה בודקים |
 | --- | --- |
-| [tfidf-rank](https://github.com/noam2177/tfidf-rank) | קוסינוס TF-IDF, Jaccard, Dice, ו-Overlap על טריגרמים |
-| [he-segment](https://github.com/noam2177/he-segment) | שלוש מערכות על מבחן קפוא, ותמהיל תגי השגיאה |
-| [he-nlp](https://github.com/noam2177/he-nlp) | תחילית, ה׳ הידיעה, ו׳ ועוד אות, ש׳ ועוד אות |
-| [anscombe-check](https://github.com/noam2177/anscombe-check) | אותו סיכום, הנקודה הרחוקה, ו-R² |
-| [csv-sum](https://github.com/noam2177/csv-sum) | ספירה, סכום, ממוצע, חציון, סטיית תקן |
-| [bracket-check](https://github.com/noam2177/bracket-check) | סוגריים בזוג, ומקום השבירה: סוגר או פותח |
+| [tfidf-rank](https://github.com/noam2177/tfidf-rank) | קוסינוס מול Jaccard, כולל מתי הם לא מסכימים |
+| [he-segment](https://github.com/noam2177/he-segment) | מבחן קפוא, ותמהיל תגי השגיאה בחלקים |
+| [he-nlp](https://github.com/noam2177/he-nlp) | ו׳ או ש׳ ועוד אות, ואחר כך ה׳ הידיעה |
+| [anscombe-check](https://github.com/noam2177/anscombe-check) | הנקודה הרחוקה, R², וכמה נקודות עברו מרחק 2 |
+| [csv-sum](https://github.com/noam2177/csv-sum) | ממוצע, חציון, מינימום, מקסימום, סטיית תקן |
+| [bracket-check](https://github.com/noam2177/bracket-check) | מקום השבירה, והסוגר שהיה צריך לבוא |
