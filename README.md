@@ -10,6 +10,14 @@ Noam Meroz. הדברים כאן רצים, ויש להם בדיקה או אתר.
 
 החוקים יושבים ב-`core/`, בלי ציור ובלי קלט, כדי שאפשר לבדוק הנחה וניקוי בלי לפתוח חלון. `game/` מצייר וגורר. האבנים הן גבישים מצוירים: פאות, ברק, ובאר שקועה, על רקע ערפילית. עדיין לא בחנות. יש גם מצב Race עם שעון.
 
+### [בור-צלף](https://github.com/noam2177/sniper-burrow)
+
+צלף מנקודה אחת. מטרות יוצאות ממחילות או עומדות בשדה, שעון יורד, והריגות נספרות לחוד מהניקוד. עשרה רובים יורים אחרת. חמש יכולות, עשר רמות לכל אחת, ויכולת אחת עולה בסוף שלב.
+
+```text
+python -m http.server 8791
+```
+
 ### [טורניר Clash](https://github.com/noam2177/coc-tournament)
 
 אתר הרשמה לטורניר: טופס, ברקט, צ'ק-אין, וארכיון. האתר שרץ: [coc-tournament.lovable.app](https://coc-tournament.lovable.app).
@@ -48,3 +56,5 @@ python board.py
 | [anscombe-check](https://github.com/noam2177/anscombe-check) | הנקודה הרחוקה, R², וכמה נקודות עברו מרחק 2 |
 | [csv-sum](https://github.com/noam2177/csv-sum) | ממוצע, חציון, מינימום, מקסימום, סטיית תקן |
 | [bracket-check](https://github.com/noam2177/bracket-check) | מקום השבירה, והסוגר שהיה צריך לבוא |
+
+פרויקט חדש נרשם ב-`projects.json` דרך `python register.py`. הטבלה שנוצרת היא `PROJECTS.md`. אותו מזהה לא נכנס פעמיים.

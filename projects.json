@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": "bloomgrid",
+      "title": "BloomGrid",
+      "kind": "game",
+      "path": "C:\\Users\\noam1\\Documents\\game-c-bloomgrid",
+      "url": "https://github.com/noam2177/bloomgrid",
+      "stage": "גבישים על הלוח. עדיין לא בחנות.",
+      "next": "12 בודקים בבדיקה סגורה, ואז 14 יום.",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "burrow-sniper",
+      "title": "בור-צלף",
+      "kind": "game",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\sniper-burrow",
+      "url": "https://github.com/noam2177/sniper-burrow",
+      "stage": "עשרה רובים עם התנהגות שונה, חמש יכולות, שעון, הריגות וניקוד.",
+      "next": "להמשיך סיבוב: מטרות, רובים, או גרפיקה.",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "coc-tournament",
+      "title": "טורניר Clash",
+      "kind": "game",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\coc-tournament",
+      "url": "https://github.com/noam2177/coc-tournament",
+      "stage": "אתר הרשמה, ברקט, וצ'ק-אין.",
+      "next": "רק אם יש חיכוך במסך ציבורי.",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "coclz-connect",
+      "title": "CoCLZ",
+      "kind": "game",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\coclz-connect",
+      "url": "https://github.com/noam2177/coclz-connect",
+      "stage": "שיתוף בסיסים וצבאות.",
+      "next": "נפרד מהטורניר.",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "rsvp",
+      "title": "הזמנות RSVP",
+      "kind": "product",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\danielntomerafter-main",
+      "url": "https://github.com/noam2177/danielntomerafter",
+      "stage": "רשימת אורחים ואחוז מענה.",
+      "next": "בלי מודל בזמן ריצה.",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "job-board",
+      "title": "job-board",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\job-board",
+      "url": "https://github.com/noam2177/job-board",
+      "stage": "עמוד HTML מדוגמה מומצאת.",
+      "next": "בלי לוח משרות אמיתי.",
+      "updated": "2026-09-28"
+    }
+  ]
+}
