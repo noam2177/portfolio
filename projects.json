@@ -15,50 +15,210 @@
       "title": "בור-צלף",
       "kind": "game",
       "path": "C:\\Users\\noam1\\Documents\\GitHub\\sniper-burrow",
-      "url": "https://github.com/noam2177/sniper-burrow",
-      "stage": "רקע לפי אזור. לכל רובה קול, צורה, והשפעה בירי.",
-      "next": "להמשיך סיבוב על אותו ריפו.",
-      "updated": "2026-09-28"
+      "url": "",
+      "stage": "עזרה H/? + 12 רובים + בדיקות",
+      "next": "B3 שלב היסטורי",
+      "updated": "2026-09-29"
     },
     {
       "id": "coc-tournament",
       "title": "טורניר Clash",
       "kind": "game",
       "path": "C:\\Users\\noam1\\Documents\\GitHub\\coc-tournament",
-      "url": "https://github.com/noam2177/coc-tournament",
+      "url": "",
       "stage": "אתר הרשמה, ברקט, וצ'ק-אין.",
       "next": "רק אם יש חיכוך במסך ציבורי.",
-      "updated": "2026-09-28"
+      "updated": "2026-09-30"
     },
     {
       "id": "coclz-connect",
       "title": "CoCLZ",
       "kind": "game",
       "path": "C:\\Users\\noam1\\Documents\\GitHub\\coclz-connect",
-      "url": "https://github.com/noam2177/coclz-connect",
+      "url": "",
       "stage": "שיתוף בסיסים וצבאות.",
       "next": "נפרד מהטורניר.",
-      "updated": "2026-09-28"
+      "updated": "2026-09-30"
     },
     {
       "id": "rsvp",
-      "title": "הזמנות RSVP",
+      "title": "מי מגיע (Mi-Magia-VIP)",
       "kind": "product",
       "path": "C:\\Users\\noam1\\Documents\\GitHub\\danielntomerafter-main",
-      "url": "https://github.com/noam2177/danielntomerafter",
-      "stage": "רשימת אורחים ואחוז מענה.",
-      "next": "בלי מודל בזמן ריצה.",
-      "updated": "2026-09-28"
+      "url": "",
+      "stage": "ריפו noam2177/Mi-Magia-VIP. main=wedding-v1 (החתונה), product-v2=מוצר+מיתוג, שניהם ב-GitHub. mi-magia-vip-legacy = ישן, קריאה בלבד.",
+      "next": "Phase 1: ענף unify מ-main + שכבת המוצר כתוספת; השוואה ויזואלית של /e/daniel-tomer; סיבוב מפתחות Supabase.",
+      "updated": "2026-09-29"
     },
     {
       "id": "job-board",
       "title": "job-board",
       "kind": "tool",
       "path": "C:\\Users\\noam1\\Documents\\GitHub\\job-board",
-      "url": "https://github.com/noam2177/job-board",
+      "url": "",
       "stage": "עמוד HTML מדוגמה מומצאת.",
       "next": "בלי לוח משרות אמיתי.",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "hybrid-cloud-bus",
+      "title": "אוטובוס היברידי",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\principal-architect-hub",
+      "url": "https://github.com/noam2177/principal-architect-hub",
+      "stage": "dry run מקומי עבר: A נדחה, B נלקח מיד, C נלקח ב-60 שניות. לא נפרס.",
+      "next": "כותב Drive שנבדק, ואז image מ-cloud_node/Dockerfile. בלי gcloud עד אז.",
       "updated": "2026-09-28"
+    },
+    {
+      "id": "personal-site",
+      "title": "אתר אישי",
+      "kind": "site",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\noam2177.github.io",
+      "url": "https://noam2177.github.io/",
+      "stage": "דף מעוצב מקורות החיים הכלליים, על GitHub Pages.",
+      "next": "רק אם המפעיל מבקש להוריד טלפון או דואל מהדף הציבורי.",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "masnenet",
+      "title": "מסננת",
+      "kind": "product",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\masnenet",
+      "url": "",
+      "stage": "דיל כתוב. זהב עדיין לא נעול.",
+      "next": "40 זוגות קפואים, עם סוג העסקה ושיוך קודם.",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "finance-router",
+      "title": "סוכן ניתוב פיננסי",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\finance-router",
+      "url": "",
+      "stage": "מוגדר בתיק. עדיין בלי ריפו.",
+      "next": "עותק קפוא של Financial PhraseBank, מסווג זול, וטבלת דיוק מול אחוז השורות שנשארות מקומיות.",
+      "updated": "2026-09-28"
+    },
+    {
+      "id": "job-hub-cloud",
+      "title": "job-hub-cloud",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\job-hub-cloud",
+      "url": "",
+      "stage": "G0+B Q DDL live; dry-run 111 jobs reconciled; apply+P1+P4+P5 live pending",
+      "next": "Noam: backfill --apply, BotFather+VM, inbox_raw watcher, P5 Hebrew eval",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "bot-task-manger",
+      "title": "Bot_TaskManger · בוט משימות",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\principal-architect-hub\\hub\\telegram_life.py",
+      "url": "https://github.com/noam2177/principal-architect-hub",
+      "stage": "טלגרם: תפריט ממוספר, קליטה חופשית של כמה משימות, עריכה מלאה, תזכורות מתוזמנות, מייל דחוף עם הזמנה ליומן",
+      "next": "להתקין faster-whisper לתמלול הקלטות; לבדוק מייל דחוף ראשון מול Gmail",
+      "updated": "2026-09-29"
+    },
+    {
+      "id": "openclaw_hub",
+      "title": "מנהל עבודה OpenClaw",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\principal-architect-hub",
+      "url": "https://github.com/noam2177/principal-architect-hub",
+      "stage": "דשבורד סוכנים רץ. 525 pytest. תיקון צ'אט/Ollama/Sagole.",
+      "next": "שיפור דש רק בחיכוך; hybrid-cloud Drive+Docker; בוט פרויקטים עם אשר שינוי.",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "life_widget",
+      "title": "ווידג'ט משימות",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\principal-architect-hub",
+      "url": "https://github.com/noam2177/principal-architect-hub",
+      "stage": "משימות אישיות בטלגרם ובווידג'ט. לא יוזמה A.",
+      "next": "שיפור רק אם יש משפט שימושי חסר.",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "form_autofill",
+      "title": "מילוי טפסים",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\form939-local-sandbox",
+      "url": "",
+      "stage": "זיהוי קובץ סינתטי נעשה. ראיון שדות.",
+      "next": "המשך ראיון שדות על docx דמה. בלי תיקיות משרד.",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "hadash_gate",
+      "title": "שער סוג מסמך",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\form939-local-sandbox",
+      "url": "",
+      "stage": "סקירת ארכיטקט. מדידה על דמה.",
+      "next": "מדידה חוזרת על דמה. לא מממשים src משרד.",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "ds_portfolio",
+      "title": "תיק עבודות",
+      "kind": "site",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\portfolio",
+      "url": "",
+      "stage": "חמישה ריפו קטנים עלו ל-noam2177.",
+      "next": "שלב runnable לישיבה; בלי קורפוס משרד.",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "he_segment",
+      "title": "פיצול תחיליות",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\he-segment",
+      "url": "",
+      "stage": "מבחן קפוא 64/36/36.",
+      "next": "להגדיל רק train בלי לרדת מ-64, אחרי אישור תקציב.",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "he-rag",
+      "title": "he-rag",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\form939-local-sandbox\\portfolio\\he-rag",
+      "url": "",
+      "stage": "שליפה לקסיקלית + סירוב על דמה. לא LLM חי.",
+      "next": "טבלת eval במקום, בלי וקטורים עד בקשה.",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "sandbox-lab",
+      "title": "סנדבוקס מחקר",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\form939-local-sandbox",
+      "url": "",
+      "stage": "מעבדה אישית. מחקר ו-benchmark סינתטי מותרים.",
+      "next": "סוכני מחקר רצים. בלי קורפוס Sagole אמיתי.",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "fitness-tracker",
+      "title": "אתר מעקב כושר",
+      "kind": "site",
+      "path": "",
+      "url": "",
+      "stage": "רשום ברשימת ההמשך. אין תיקייה מקומית במחשב הזה.",
+      "next": "לשלוח נתיב האתר או ריפו GitHub, ואז שינוי ראשון בטלגרם עם אשר שינוי.",
+      "updated": "2026-09-30"
+    },
+    {
+      "id": "virtual-closet",
+      "title": "ארון וירטואלי (Virtual Closet)",
+      "kind": "product",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\virtual-closet",
+      "url": "",
+      "stage": "תכנון: מפת פרויקט, שאלון מפעיל, יעד ויראלי + קהל (כולל עומר)",
+      "next": "למלא סקציה 2 ב-PROJECT_MAP.md; לאשר MVP v0 (ארון + צילום בגד בלי try-on)",
+      "updated": "2026-09-30"
     }
   ]
 }
