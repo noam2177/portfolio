@@ -125,10 +125,10 @@
       "title": "מנהל עבודה OpenClaw",
       "kind": "tool",
       "path": "C:\\Users\\noam1\\Documents\\principal-architect-hub",
-      "url": "https://github.com/noam2177/principal-architect-hub",
-      "stage": "דשבורד סוכנים רץ. 525 pytest. תיקון צ'אט/Ollama/Sagole.",
-      "next": "שיפור דש רק בחיכוך; hybrid-cloud Drive+Docker; בוט פרויקטים עם אשר שינוי.",
-      "updated": "2026-09-30"
+      "url": "",
+      "stage": "דשבורד :8788; תת-תחום engineering ב-form939-agent-hub/engineering/",
+      "next": "ענף project/system-engineering; openclaw_hub/engineering/NEXT_STEPS.md; career-hunt",
+      "updated": "2026-10-03"
     },
     {
       "id": "life_widget",
@@ -216,9 +216,39 @@
       "kind": "product",
       "path": "C:\\Users\\noam1\\Documents\\GitHub\\virtual-closet",
       "url": "",
-      "stage": "תכנון: מפת פרויקט, שאלון מפעיל, יעד ויראלי + קהל (כולל עומר)",
-      "next": "למלא סקציה 2 ב-PROJECT_MAP.md; לאשר MVP v0 (ארון + צילום בגד בלי try-on)",
+      "stage": "MVP v0: PWA React — ארון, גוף, overlay, share (local IndexedDB)",
+      "next": "בדיקת UX עם עומר; אחר כך v1: חיפוש NL + הצעות AI",
       "updated": "2026-09-30"
+    },
+    {
+      "id": "presentation-builder",
+      "title": "Presentation Builder 3.0",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\form939-agent-hub\\presentation-builder",
+      "url": "",
+      "stage": "Vite+React רץ מקומית. צ'אט, קנבס 16:9, הצעות JSON, ייצוא PDF/PPTX.",
+      "next": "להדביק VITE_GLM_API_KEY מ-.env.example ולהריץ npm run dev או את קיצור הדרך בשולחן העבודה.",
+      "updated": "2026-10-02"
+    },
+    {
+      "id": "system-engineering",
+      "title": "הנדסת מערכת (מאוחד)",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\form939-agent-hub\\engineering",
+      "url": "",
+      "stage": "מאוחד ל-openclaw_hub/engineering — לא project_id פעיל",
+      "next": "ARCHIVED: file_bus/projects/system-engineering/ARCHIVED.md",
+      "updated": "2026-10-03"
+    },
+    {
+      "id": "openclaw_shell",
+      "title": "מעטפת OpenClaw (חלון Cursor)",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\form939-agent-hub",
+      "url": "",
+      "stage": "אזור Cursor; כלים ב-openclaw_hub/engineering",
+      "next": "project/system-engineering; openclaw_shell/NEXT_STEPS.md",
+      "updated": "2026-10-03"
     }
   ]
 }

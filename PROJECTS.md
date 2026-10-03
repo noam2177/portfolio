@@ -14,7 +14,7 @@
 | finance-router | סוכן ניתוב פיננסי | מוגדר בתיק. עדיין בלי ריפו. | עותק קפוא של Financial PhraseBank, מסווג זול, וטבלת דיוק מול אחוז השורות שנשארות מקומיות. |
 | job-hub-cloud | job-hub-cloud | G0+B Q DDL live; dry-run 111 jobs reconciled; apply+P1+P4+P5 live pending | Noam: backfill --apply, BotFather+VM, inbox_raw watcher, P5 Hebrew eval |
 | bot-task-manger | Bot_TaskManger · בוט משימות | טלגרם: תפריט ממוספר, קליטה חופשית של כמה משימות, עריכה מלאה, תזכורות מתוזמנות, מייל דחוף עם הזמנה ליומן | להתקין faster-whisper לתמלול הקלטות; לבדוק מייל דחוף ראשון מול Gmail |
-| openclaw_hub | מנהל עבודה OpenClaw | דשבורד סוכנים רץ. 525 pytest. תיקון צ'אט/Ollama/Sagole. | שיפור דש רק בחיכוך; hybrid-cloud Drive+Docker; בוט פרויקטים עם אשר שינוי. |
+| openclaw_hub | מנהל עבודה OpenClaw | דשבורד :8788; תת-תחום engineering ב-form939-agent-hub/engineering/ | ענף project/system-engineering; openclaw_hub/engineering/NEXT_STEPS.md; career-hunt |
 | life_widget | ווידג'ט משימות | משימות אישיות בטלגרם ובווידג'ט. לא יוזמה A. | שיפור רק אם יש משפט שימושי חסר. |
 | form_autofill | מילוי טפסים | זיהוי קובץ סינתטי נעשה. ראיון שדות. | המשך ראיון שדות על docx דמה. בלי תיקיות משרד. |
 | hadash_gate | שער סוג מסמך | סקירת ארכיטקט. מדידה על דמה. | מדידה חוזרת על דמה. לא מממשים src משרד. |
@@ -23,4 +23,7 @@
 | he-rag | he-rag | שליפה לקסיקלית + סירוב על דמה. לא LLM חי. | טבלת eval במקום, בלי וקטורים עד בקשה. |
 | sandbox-lab | סנדבוקס מחקר | מעבדה אישית. מחקר ו-benchmark סינתטי מותרים. | סוכני מחקר רצים. בלי קורפוס Sagole אמיתי. |
 | fitness-tracker | אתר מעקב כושר | רשום ברשימת ההמשך. אין תיקייה מקומית במחשב הזה. | לשלוח נתיב האתר או ריפו GitHub, ואז שינוי ראשון בטלגרם עם אשר שינוי. |
-| virtual-closet | ארון וירטואלי (Virtual Closet) | תכנון: מפת פרויקט, שאלון מפעיל, יעד ויראלי + קהל (כולל עומר) | למלא סקציה 2 ב-PROJECT_MAP.md; לאשר MVP v0 (ארון + צילום בגד בלי try-on) |
+| virtual-closet | ארון וירטואלי (Virtual Closet) | MVP v0: PWA React — ארון, גוף, overlay, share (local IndexedDB) | בדיקת UX עם עומר; אחר כך v1: חיפוש NL + הצעות AI |
+| presentation-builder | Presentation Builder 3.0 | Vite+React רץ מקומית. צ'אט, קנבס 16:9, הצעות JSON, ייצוא PDF/PPTX. | להדביק VITE_GLM_API_KEY מ-.env.example ולהריץ npm run dev או את קיצור הדרך בשולחן העבודה. |
+| system-engineering | הנדסת מערכת (מאוחד) | מאוחד ל-openclaw_hub/engineering — לא project_id פעיל | ARCHIVED: file_bus/projects/system-engineering/ARCHIVED.md |
+| openclaw_shell | מעטפת OpenClaw (חלון Cursor) | אזור Cursor; כלים ב-openclaw_hub/engineering | project/system-engineering; openclaw_shell/NEXT_STEPS.md |
