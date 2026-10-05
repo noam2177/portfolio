@@ -249,6 +249,16 @@
       "stage": "אזור Cursor; כלים ב-openclaw_hub/engineering",
       "next": "project/system-engineering; openclaw_shell/NEXT_STEPS.md",
       "updated": "2026-10-03"
+    },
+    {
+      "id": "scraping-hub-service",
+      "title": "Scraping Hub Service",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\form939-agent-hub\\scraping-hub-service",
+      "url": "",
+      "stage": "MVP Python + Rust scrape_fast (batch HTTP, URL heuristics)",
+      "next": "Deploy; job-hub prefetch via /fetch-batch",
+      "updated": "2026-10-05"
     }
   ]
 }

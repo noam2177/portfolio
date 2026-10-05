@@ -27,3 +27,4 @@
 | presentation-builder | Presentation Builder 3.0 | Vite+React רץ מקומית. צ'אט, קנבס 16:9, הצעות JSON, ייצוא PDF/PPTX. | להדביק VITE_GLM_API_KEY מ-.env.example ולהריץ npm run dev או את קיצור הדרך בשולחן העבודה. |
 | system-engineering | הנדסת מערכת (מאוחד) | מאוחד ל-openclaw_hub/engineering — לא project_id פעיל | ARCHIVED: file_bus/projects/system-engineering/ARCHIVED.md |
 | openclaw_shell | מעטפת OpenClaw (חלון Cursor) | אזור Cursor; כלים ב-openclaw_hub/engineering | project/system-engineering; openclaw_shell/NEXT_STEPS.md |
+| scraping-hub-service | Scraping Hub Service | MVP Python + Rust scrape_fast (batch HTTP, URL heuristics) | Deploy; job-hub prefetch via /fetch-batch |
