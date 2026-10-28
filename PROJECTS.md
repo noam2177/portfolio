@@ -20,11 +20,17 @@
 | hadash_gate | שער סוג מסמך | סקירת ארכיטקט. מדידה על דמה. | מדידה חוזרת על דמה. לא מממשים src משרד. |
 | ds_portfolio | תיק עבודות | חמישה ריפו קטנים עלו ל-noam2177. | שלב runnable לישיבה; בלי קורפוס משרד. |
 | he_segment | פיצול תחיליות | מבחן קפוא 64/36/36. | להגדיל רק train בלי לרדת מ-64, אחרי אישור תקציב. |
-| he-rag | he-rag | שליפה לקסיקלית + סירוב על דמה. לא LLM חי. | טבלת eval במקום, בלי וקטורים עד בקשה. |
+| he-rag | he-rag | Lexical v1 done; agentic track on agentic-rag-qdrant branch | Follow satellite-ml/he-rag on project/agentic-rag-qdrant |
 | sandbox-lab | סנדבוקס מחקר | מעבדה אישית. מחקר ו-benchmark סינתטי מותרים. | סוכני מחקר רצים. בלי קורפוס Sagole אמיתי. |
-| fitness-tracker | אתר מעקב כושר | רשום ברשימת ההמשך. אין תיקייה מקומית במחשב הזה. | לשלוח נתיב האתר או ריפו GitHub, ואז שינוי ראשון בטלגרם עם אשר שינוי. |
+| fitness-tracker | אתר מעקב כושר | Lovable Web בענן — מעקב תוכניות אימון; אין clone מקומי ב-Hub | גל 3: manifest + מסך בית + offline (ב-Lovable/GitHub) |
 | virtual-closet | ארון וירטואלי (Virtual Closet) | MVP v0: PWA React — ארון, גוף, overlay, share (local IndexedDB) | בדיקת UX עם עומר; אחר כך v1: חיפוש NL + הצעות AI |
 | presentation-builder | Presentation Builder 3.0 | Vite+React רץ מקומית. צ'אט, קנבס 16:9, הצעות JSON, ייצוא PDF/PPTX. | להדביק VITE_GLM_API_KEY מ-.env.example ולהריץ npm run dev או את קיצור הדרך בשולחן העבודה. |
 | system-engineering | הנדסת מערכת (מאוחד) | מאוחד ל-openclaw_hub/engineering — לא project_id פעיל | ARCHIVED: file_bus/projects/system-engineering/ARCHIVED.md |
-| openclaw_shell | מעטפת OpenClaw (חלון Cursor) | אזור Cursor; כלים ב-openclaw_hub/engineering | project/system-engineering; openclaw_shell/NEXT_STEPS.md |
-| scraping-hub-service | Scraping Hub Service | MVP Python + Rust scrape_fast (batch HTTP, URL heuristics) | Deploy; job-hub prefetch via /fetch-batch |
+| openclaw_shell | מעטפת OpenClaw (חלון Cursor) | OpenRouter ב-Cursor: state + מודלים OR-* (ממתין Verify מפתח) | OCS-OR-01..03 ב-file_bus/openclaw_shell/NEXT_STEPS.md; אחר כך project/system-engineering |
+| scraping-hub-service | Scraping Hub Service | Rust CLI + PyO3 extension; fetch-batch benchmarked | SBX-SCRAPE-01 rollout; optional PyO3 in prod |
+| rust-pyo3-extension | Scrape Fast PyO3 Extension | RUST-PYO3-01..03 done; bench ~31pct mean win vs CLI | Optional: default SCRAPING_HUB_RUST_PY in prod .env |
+| agentic-rag-qdrant | Agentic RAG · Qdrant · LangGraph | RAG-AGENT-01..03 done on branch; eval 1.0/1.0/1.0 | Optional: Docker Qdrant prod path; OpenRouter answer node |
+| wobbel | תחנות דלק — אסוך (Wobbel) וארנון | ענף יחיד project/wobbel — PWA, mobile-gate, משמרות; מיזוג arnon (2026-10-28) | Supabase staging + migrations; smoke טלפון (docs/MOBILE_PLAY); Vercel Preview על project/wobbel |
+| cognitive-games-platform | Cognitive Games Platform (Elo/IRT) | פלטפורמת משחקי חשיבה פסיכו-דידקטיים; התאמה אדפטיבית (Elo/IRT) — מחקר/תכנון. | נתיב ריפו ייעודי + MVP משחק אחד אחרי BloomGrid. |
+| cloud-task-calendar-sync | Cloud Task & Calendar Sync | סנכרון משימות ויומן: Google Tasks API + Google Calendar API; מחליף תלות ב-:8788 וקבצי JSON מקומיים. | OAuth + worker ב-GCP (Cloud Run/Functions); גשר מ-Bot_TaskManger ו-life_widget. |
+| whatsapp-listener-service | WhatsApp Listener (Green API) | מאזין read-only (Developer tier, 3 צ'אטים): קבוצות משרות A/B → scraping-hub; משימות אישי → cloud-task-calendar-sync. בלי שליחה ל-WhatsApp. | GREEN_API_* ב-.env; apply ל-principal-architect-hub; ingest HTTP downstream; אישורים בטלגרם בלבד. |

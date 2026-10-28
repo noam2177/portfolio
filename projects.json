@@ -8,7 +8,8 @@
       "url": "https://github.com/noam2177/bloomgrid",
       "stage": "גבישים על הלוח. עדיין לא בחנות.",
       "next": "12 בודקים בבדיקה סגורה, ואז 14 יום.",
-      "updated": "2026-09-28"
+      "updated": "2026-09-28",
+      "priority_tier": 3
     },
     {
       "id": "burrow-sniper",
@@ -18,7 +19,8 @@
       "url": "",
       "stage": "עזרה H/? + 12 רובים + בדיקות",
       "next": "B3 שלב היסטורי",
-      "updated": "2026-09-29"
+      "updated": "2026-09-29",
+      "priority_tier": 3
     },
     {
       "id": "coc-tournament",
@@ -28,7 +30,8 @@
       "url": "",
       "stage": "אתר הרשמה, ברקט, וצ'ק-אין.",
       "next": "רק אם יש חיכוך במסך ציבורי.",
-      "updated": "2026-09-30"
+      "updated": "2026-09-30",
+      "priority_tier": 3
     },
     {
       "id": "coclz-connect",
@@ -38,7 +41,8 @@
       "url": "",
       "stage": "שיתוף בסיסים וצבאות.",
       "next": "נפרד מהטורניר.",
-      "updated": "2026-09-30"
+      "updated": "2026-09-30",
+      "priority_tier": 3
     },
     {
       "id": "rsvp",
@@ -48,7 +52,8 @@
       "url": "",
       "stage": "ריפו noam2177/Mi-Magia-VIP. main=wedding-v1 (החתונה), product-v2=מוצר+מיתוג, שניהם ב-GitHub. mi-magia-vip-legacy = ישן, קריאה בלבד.",
       "next": "Phase 1: ענף unify מ-main + שכבת המוצר כתוספת; השוואה ויזואלית של /e/daniel-tomer; סיבוב מפתחות Supabase.",
-      "updated": "2026-09-29"
+      "updated": "2026-09-29",
+      "priority_tier": 2
     },
     {
       "id": "job-board",
@@ -58,7 +63,8 @@
       "url": "",
       "stage": "עמוד HTML מדוגמה מומצאת.",
       "next": "בלי לוח משרות אמיתי.",
-      "updated": "2026-09-30"
+      "updated": "2026-09-30",
+      "priority_tier": 3
     },
     {
       "id": "hybrid-cloud-bus",
@@ -68,7 +74,8 @@
       "url": "https://github.com/noam2177/principal-architect-hub",
       "stage": "dry run מקומי עבר: A נדחה, B נלקח מיד, C נלקח ב-60 שניות. לא נפרס.",
       "next": "כותב Drive שנבדק, ואז image מ-cloud_node/Dockerfile. בלי gcloud עד אז.",
-      "updated": "2026-09-28"
+      "updated": "2026-09-28",
+      "priority_tier": 1
     },
     {
       "id": "personal-site",
@@ -78,7 +85,8 @@
       "url": "https://noam2177.github.io/",
       "stage": "דף מעוצב מקורות החיים הכלליים, על GitHub Pages.",
       "next": "רק אם המפעיל מבקש להוריד טלפון או דואל מהדף הציבורי.",
-      "updated": "2026-09-28"
+      "updated": "2026-09-28",
+      "priority_tier": 3
     },
     {
       "id": "masnenet",
@@ -88,7 +96,8 @@
       "url": "",
       "stage": "דיל כתוב. זהב עדיין לא נעול.",
       "next": "40 זוגות קפואים, עם סוג העסקה ושיוך קודם.",
-      "updated": "2026-09-28"
+      "updated": "2026-09-28",
+      "priority_tier": 3
     },
     {
       "id": "finance-router",
@@ -98,7 +107,8 @@
       "url": "",
       "stage": "מוגדר בתיק. עדיין בלי ריפו.",
       "next": "עותק קפוא של Financial PhraseBank, מסווג זול, וטבלת דיוק מול אחוז השורות שנשארות מקומיות.",
-      "updated": "2026-09-28"
+      "updated": "2026-09-28",
+      "priority_tier": 3
     },
     {
       "id": "job-hub-cloud",
@@ -108,7 +118,8 @@
       "url": "",
       "stage": "G0+B Q DDL live; dry-run 111 jobs reconciled; apply+P1+P4+P5 live pending",
       "next": "Noam: backfill --apply, BotFather+VM, inbox_raw watcher, P5 Hebrew eval",
-      "updated": "2026-09-30"
+      "updated": "2026-09-30",
+      "priority_tier": 1
     },
     {
       "id": "bot-task-manger",
@@ -118,7 +129,8 @@
       "url": "https://github.com/noam2177/principal-architect-hub",
       "stage": "טלגרם: תפריט ממוספר, קליטה חופשית של כמה משימות, עריכה מלאה, תזכורות מתוזמנות, מייל דחוף עם הזמנה ליומן",
       "next": "להתקין faster-whisper לתמלול הקלטות; לבדוק מייל דחוף ראשון מול Gmail",
-      "updated": "2026-09-29"
+      "updated": "2026-09-29",
+      "priority_tier": 1
     },
     {
       "id": "openclaw_hub",
@@ -128,7 +140,8 @@
       "url": "",
       "stage": "דשבורד :8788; תת-תחום engineering ב-form939-agent-hub/engineering/",
       "next": "ענף project/system-engineering; openclaw_hub/engineering/NEXT_STEPS.md; career-hunt",
-      "updated": "2026-10-03"
+      "updated": "2026-10-03",
+      "priority_tier": 1
     },
     {
       "id": "life_widget",
@@ -138,7 +151,8 @@
       "url": "https://github.com/noam2177/principal-architect-hub",
       "stage": "משימות אישיות בטלגרם ובווידג'ט. לא יוזמה A.",
       "next": "שיפור רק אם יש משפט שימושי חסר.",
-      "updated": "2026-09-30"
+      "updated": "2026-09-30",
+      "priority_tier": 1
     },
     {
       "id": "form_autofill",
@@ -148,7 +162,8 @@
       "url": "",
       "stage": "זיהוי קובץ סינתטי נעשה. ראיון שדות.",
       "next": "המשך ראיון שדות על docx דמה. בלי תיקיות משרד.",
-      "updated": "2026-09-30"
+      "updated": "2026-09-30",
+      "priority_tier": 3
     },
     {
       "id": "hadash_gate",
@@ -158,7 +173,8 @@
       "url": "",
       "stage": "סקירת ארכיטקט. מדידה על דמה.",
       "next": "מדידה חוזרת על דמה. לא מממשים src משרד.",
-      "updated": "2026-09-30"
+      "updated": "2026-09-30",
+      "priority_tier": 3
     },
     {
       "id": "ds_portfolio",
@@ -168,7 +184,8 @@
       "url": "",
       "stage": "חמישה ריפו קטנים עלו ל-noam2177.",
       "next": "שלב runnable לישיבה; בלי קורפוס משרד.",
-      "updated": "2026-09-30"
+      "updated": "2026-09-30",
+      "priority_tier": 3
     },
     {
       "id": "he_segment",
@@ -178,7 +195,8 @@
       "url": "",
       "stage": "מבחן קפוא 64/36/36.",
       "next": "להגדיל רק train בלי לרדת מ-64, אחרי אישור תקציב.",
-      "updated": "2026-09-30"
+      "updated": "2026-09-30",
+      "priority_tier": 3
     },
     {
       "id": "he-rag",
@@ -186,9 +204,10 @@
       "kind": "tool",
       "path": "C:\\Users\\noam1\\Documents\\form939-local-sandbox\\portfolio\\he-rag",
       "url": "",
-      "stage": "שליפה לקסיקלית + סירוב על דמה. לא LLM חי.",
-      "next": "טבלת eval במקום, בלי וקטורים עד בקשה.",
-      "updated": "2026-09-30"
+      "stage": "Lexical v1 done; agentic track on agentic-rag-qdrant branch",
+      "next": "Follow satellite-ml/he-rag on project/agentic-rag-qdrant",
+      "updated": "2026-10-05",
+      "priority_tier": 2
     },
     {
       "id": "sandbox-lab",
@@ -198,7 +217,8 @@
       "url": "",
       "stage": "מעבדה אישית. מחקר ו-benchmark סינתטי מותרים.",
       "next": "סוכני מחקר רצים. בלי קורפוס Sagole אמיתי.",
-      "updated": "2026-09-30"
+      "updated": "2026-09-30",
+      "priority_tier": 2
     },
     {
       "id": "fitness-tracker",
@@ -206,9 +226,9 @@
       "kind": "site",
       "path": "",
       "url": "",
-      "stage": "רשום ברשימת ההמשך. אין תיקייה מקומית במחשב הזה.",
-      "next": "לשלוח נתיב האתר או ריפו GitHub, ואז שינוי ראשון בטלגרם עם אשר שינוי.",
-      "updated": "2026-09-30"
+      "stage": "Lovable Web בענן — מעקב תוכניות אימון; אין clone מקומי ב-Hub",
+      "next": "גל 3: manifest + מסך בית + offline (ב-Lovable/GitHub)",
+      "updated": "2026-10-17"
     },
     {
       "id": "virtual-closet",
@@ -218,7 +238,8 @@
       "url": "",
       "stage": "MVP v0: PWA React — ארון, גוף, overlay, share (local IndexedDB)",
       "next": "בדיקת UX עם עומר; אחר כך v1: חיפוש NL + הצעות AI",
-      "updated": "2026-09-30"
+      "updated": "2026-09-30",
+      "priority_tier": 3
     },
     {
       "id": "presentation-builder",
@@ -228,7 +249,8 @@
       "url": "",
       "stage": "Vite+React רץ מקומית. צ'אט, קנבס 16:9, הצעות JSON, ייצוא PDF/PPTX.",
       "next": "להדביק VITE_GLM_API_KEY מ-.env.example ולהריץ npm run dev או את קיצור הדרך בשולחן העבודה.",
-      "updated": "2026-10-02"
+      "updated": "2026-10-02",
+      "priority_tier": 2
     },
     {
       "id": "system-engineering",
@@ -238,7 +260,8 @@
       "url": "",
       "stage": "מאוחד ל-openclaw_hub/engineering — לא project_id פעיל",
       "next": "ARCHIVED: file_bus/projects/system-engineering/ARCHIVED.md",
-      "updated": "2026-10-03"
+      "updated": "2026-10-03",
+      "priority_tier": 1
     },
     {
       "id": "openclaw_shell",
@@ -246,9 +269,10 @@
       "kind": "tool",
       "path": "C:\\Users\\noam1\\Documents\\form939-agent-hub",
       "url": "",
-      "stage": "אזור Cursor; כלים ב-openclaw_hub/engineering",
-      "next": "project/system-engineering; openclaw_shell/NEXT_STEPS.md",
-      "updated": "2026-10-03"
+      "stage": "OpenRouter ב-Cursor: state + מודלים OR-* (ממתין Verify מפתח)",
+      "next": "OCS-OR-01..03 ב-file_bus/openclaw_shell/NEXT_STEPS.md; אחר כך project/system-engineering",
+      "updated": "2026-10-07",
+      "priority_tier": 1
     },
     {
       "id": "scraping-hub-service",
@@ -256,9 +280,75 @@
       "kind": "tool",
       "path": "C:\\Users\\noam1\\Documents\\form939-agent-hub\\scraping-hub-service",
       "url": "",
-      "stage": "MVP Python + Rust scrape_fast (batch HTTP, URL heuristics)",
-      "next": "Deploy; job-hub prefetch via /fetch-batch",
-      "updated": "2026-10-05"
+      "stage": "Rust CLI + PyO3 extension; fetch-batch benchmarked",
+      "next": "SBX-SCRAPE-01 rollout; optional PyO3 in prod",
+      "updated": "2026-10-05",
+      "priority_tier": 1
+    },
+    {
+      "id": "rust-pyo3-extension",
+      "title": "Scrape Fast PyO3 Extension",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\form939-agent-hub\\scraping-hub-service\\rust\\scrape_fast_py",
+      "url": "",
+      "stage": "RUST-PYO3-01..03 done; bench ~31pct mean win vs CLI",
+      "next": "Optional: default SCRAPING_HUB_RUST_PY in prod .env",
+      "updated": "2026-10-05",
+      "priority_tier": 3
+    },
+    {
+      "id": "agentic-rag-qdrant",
+      "title": "Agentic RAG · Qdrant · LangGraph",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\form939-agent-hub\\satellite-ml\\he-rag",
+      "url": "",
+      "stage": "RAG-AGENT-01..03 done on branch; eval 1.0/1.0/1.0",
+      "next": "Optional: Docker Qdrant prod path; OpenRouter answer node",
+      "updated": "2026-10-05",
+      "priority_tier": 2
+    },
+    {
+      "id": "wobbel",
+      "title": "תחנות דלק — אסוך (Wobbel) וארנון",
+      "kind": "product",
+      "path": "C:\\Users\\noam1\\Documents\\GitHub\\pixel-perfect-replica",
+      "url": "",
+      "stage": "ענף יחיד project/wobbel — PWA, mobile-gate, משמרות; מיזוג arnon (2026-10-28)",
+      "next": "Supabase staging + migrations; smoke טלפון (docs/MOBILE_PLAY); Vercel Preview על project/wobbel",
+      "updated": "2026-10-28"
+    },
+    {
+      "id": "cognitive-games-platform",
+      "title": "Cognitive Games Platform (Elo/IRT)",
+      "kind": "game",
+      "path": "C:\\Users\\noam1\\Documents\\form939-local-sandbox",
+      "url": "",
+      "stage": "פלטפורמת משחקי חשיבה פסיכו-דידקטיים; התאמה אדפטיבית (Elo/IRT) — מחקר/תכנון.",
+      "next": "נתיב ריפו ייעודי + MVP משחק אחד אחרי BloomGrid.",
+      "updated": "2026-10-10",
+      "priority_tier": 3
+    },
+    {
+      "id": "cloud-task-calendar-sync",
+      "title": "Cloud Task & Calendar Sync",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\principal-architect-hub",
+      "url": "",
+      "stage": "סנכרון משימות ויומן: Google Tasks API + Google Calendar API; מחליף תלות ב-:8788 וקבצי JSON מקומיים.",
+      "next": "OAuth + worker ב-GCP (Cloud Run/Functions); גשר מ-Bot_TaskManger ו-life_widget.",
+      "updated": "2026-10-10",
+      "priority_tier": 1
+    },
+    {
+      "id": "whatsapp-listener-service",
+      "title": "WhatsApp Listener (Green API)",
+      "kind": "tool",
+      "path": "C:\\Users\\noam1\\Documents\\form939-agent-hub\\engineering\\hub_drop\\hub",
+      "url": "",
+      "stage": "מאזין read-only (Developer tier, 3 צ'אטים): קבוצות משרות A/B → scraping-hub; משימות אישי → cloud-task-calendar-sync. בלי שליחה ל-WhatsApp.",
+      "next": "GREEN_API_* ב-.env; apply ל-principal-architect-hub; ingest HTTP downstream; אישורים בטלגרם בלבד.",
+      "updated": "2026-10-10",
+      "priority_tier": 2
     }
   ]
 }
